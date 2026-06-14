@@ -1,8 +1,4 @@
-## Hi there 👋
-
-<!--
-**jfrajputrajput-cmyk/jfrajputrajput-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHu# 
-Hi,I'm Jannat Fatima 👋
+# Hi,I'm Jannat Fatima 👋
 
 ## About Me
 - Aspiring Cybersecurity Professional
